@@ -9,7 +9,7 @@
 
 # War Selection Unofficial Wiki
 
-- **[Demo](https://wiki.warselection.com/)**
+- **[Demo](https://corp-wswiki-7b20de-5457f5-91-108-122-37.traefik.me)**
 - [Special Thanks](#special-thanks)
 - [Contribute](#contributors)
 
